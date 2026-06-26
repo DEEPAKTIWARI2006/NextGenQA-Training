@@ -1,0 +1,1 @@
+console.log("NextGen QA Training website loaded.");
